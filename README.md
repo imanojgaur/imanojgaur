@@ -11,4 +11,4 @@ Full-stack developer focused on building scalable web applications with Next.js 
 - PostgreSQL
 - Tailwind CSS
 
-## I'm Currently preparing for full-stack roles and open to opportunities.
+### I'm Currently preparing for full-stack roles and open to opportunities.
