@@ -4,11 +4,8 @@ Full-stack developer focused on building scalable web applications with Next.js 
 
 ### Tech Stack
 - Next.js
-- React
+- PERN
 - TypeScript
-- Node.js
-- Express.js
-- PostgreSQL
 - Tailwind CSS
 
 ### I'm Currently preparing for full-stack roles and open to opportunities & Collaborations.
