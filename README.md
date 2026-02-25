@@ -7,8 +7,8 @@ Full-stack developer focused on building scalable web applications with Next.js 
 - React
 - TypeScript
 - Node.js
+- Express.js
 - PostgreSQL
-- Prisma
 - Tailwind CSS
 
-- I'm Currently preparing for full-stack roles and open to opportunities.
+## I'm Currently preparing for full-stack roles and open to opportunities.
