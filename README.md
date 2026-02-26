@@ -1,11 +1,11 @@
 # Hi, I'm Manoj 👋
 
-Full-stack developer focused on building scalable web applications with Next.js and TypeScript.
+**Full-Stack Developer** focused on building fast, secure, and scalable web applications.
 
-### Tech Stack
-- Next.js
-- PERN
-- TypeScript
-- Tailwind CSS
+### 🛠️ Tech Stack
+- **Ecosystem:** Next.js, TypeScript
+- **Backend & DB:** PostgreSQL, Express.js, Node.js (PERN)
+- **Styling:** Tailwind CSS, shadcn UI
 
-### I'm Currently preparing for full-stack roles and open to opportunities & Collaborations.
+### 🌱 Current Status
+Actively building production-ready projects. Open to full-stack roles, freelance opportunities, and open-source collaborations.
